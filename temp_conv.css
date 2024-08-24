@@ -1,0 +1,30 @@
+body {
+    padding-top: 10%;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #fff;
+    
+  }
+
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+select{
+  background-color: rgb(113, 201, 201);
+}
+button{
+  color: #fff;
+  background-color: #3d353e;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: auto;
+    color: rgb(10, 31, 69);
+  }
